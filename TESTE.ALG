@@ -5,10 +5,10 @@ Algoritmo "Olé Mundo"
 // Autor(a)    : Atson Ferreira de Melo
 // Data atual  : 10/06/2023
 Var
-var: caracter
 
 Inicio
    Escreval("Olá mundo!")
-   Escreva("Estou grato por poder estar aqui aprendendo")
+   Escreval("Estou grato por poder estar aqui aprendendo.")
+   Escreva("O Senhor é o meu pastor, nada me faltará.")
 
 Fimalgoritmo

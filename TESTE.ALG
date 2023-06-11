@@ -9,6 +9,6 @@ Var
 Inicio
    Escreval("Olá mundo!")
    Escreval("Estou grato por poder estar aqui aprendendo.")
-   Escreva("O Senhor é o meu pastor, nada me faltará.")
+   Escreva("O Senhor é o meu pastor, nada me faltará. Salmos 23.1")
 
 Fimalgoritmo

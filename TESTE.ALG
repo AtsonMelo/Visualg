@@ -1,14 +1,14 @@
-Algoritmo "Teste"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+Algoritmo "OlÃ© Mundo"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   : Antonio Carlos Nicolodi // Gustavo Guanabara
+// DescriÃ§Ã£o   : Programa para dizer: "OlÃ¡ Mundo"! (funÃ§Ã£o)
+// Autor(a)    : Atson Ferreira de Melo
 // Data atual  : 10/06/2023
 Var
-// Seção de Declarações das variáveis 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-   Escreva("Olá mundo!")
+   Escreval("OlÃ¡ mundo!")
+   Escreval("Estou grato por poder estar aqui aprendendo.")
+   Escreva("O Senhor Ã© o meu pastor, nada me faltarÃ¡. Salmos 23.1")
 
 Fimalgoritmo

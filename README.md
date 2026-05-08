@@ -32,21 +32,21 @@ Registrar minha primeira fase de aprendizado em programação e organizar os exe
 
 ## Estrutura inicial
 
-```text
-Visualg/
-├── README.md
-├── algoritmos/
-│   ├── 01-entrada-saida/
-│   ├── 02-condicionais/
-│   ├── 03-repeticao/
-│   ├── 04-vetores-matrizes/
-│   ├── 05-procedimentos-funcoes/
-│   └── 06-desafios/
-├── docs/
-│   ├── diario-de-aprendizado.md
-│   └── conceitos-estudados.md
-└── legado/
-    └── arquivos-originais/
-Observação
+    Visualg/
+    ├── README.md
+    ├── algoritmos/
+    │   ├── 01-entrada-saida/
+    │   ├── 02-condicionais/
+    │   ├── 03-repeticao/
+    │   ├── 04-vetores-matrizes/
+    │   ├── 05-procedimentos-funcoes/
+    │   └── 06-desafios/
+    ├── docs/
+    │   ├── diario-de-aprendizado.md
+    │   └── conceitos-estudados.md
+    └── legado/
+        └── arquivos-originais/
+
+## Observação
 
 Este repositório tem valor histórico dentro da minha trajetória de aprendizado. Ele representa o começo da minha caminhada na programação.
